@@ -39,7 +39,7 @@ class PrintCards extends Component {
                     <h1 className="card-logo">Shozaya</h1>
                     <p className="my-link">www.shozaya.com</p>
                   </div>
-                  <img src={QR} className="qr-code" />
+                  {/*   <img src={QR} className="qr-code" /> */}
                 </div>
               </div>
               <div
@@ -268,7 +268,7 @@ class PrintCards extends Component {
                     marginLeft: "0.2rem",
                   }}
                 />
-                <p>في حالة الشكاوي والمقترحات :01004717429 - 01097223141 </p>
+                {/*             <p>في حالة الشكاوي والمقترحات :01004717429 - 01097223141 </p> */}
               </div>
             </div>
           );
